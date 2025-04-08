@@ -19,13 +19,13 @@ uses one provider,model and API key
 Use `qexec.config(model="Claude-3.5-Sonnet",api_key="your_key",Provider.ANTROPIC)`
 
 Available providers 
-OPENAI
-GROK 
-ANTROPIC 
-OPENROUTER
-META
-MISTRAL
-AISTUDIO
+-OPENAI
+-GROK 
+-ANTROPIC 
+-OPENROUTER
+-META
+-MISTRAL
+-AISTUDIO
 
 
 
