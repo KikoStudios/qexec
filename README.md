@@ -2,6 +2,7 @@
 a project made to make automation with AI for you diy projects easy
 
 ## PURPUSE
+
 QEXEC allows AI to execute functions for you even with details like states or specific values 
 ---
 ## Instalation
