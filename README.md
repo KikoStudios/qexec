@@ -9,10 +9,12 @@ qexec allows AI to execute functions for you even with details like states or sp
 ## Instalation
 ### With pip
 just type `pip install qexec`
+and import `import qexec`
 
 
 ## Setup
 ### Non Redundant provider 1 API
 
+Use `qexec.config
 
 
